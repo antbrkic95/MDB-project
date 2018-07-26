@@ -1,0 +1,8 @@
+C:\Users\TEST04\Desktop\ProjektMDB-Antonio\MDB\MDB\bin\Debug\MDB.exe.config
+C:\Users\TEST04\Desktop\ProjektMDB-Antonio\MDB\MDB\bin\Debug\MDB.exe
+C:\Users\TEST04\Desktop\ProjektMDB-Antonio\MDB\MDB\bin\Debug\MDB.pdb
+C:\Users\TEST04\Desktop\ProjektMDB-Antonio\MDB\MDB\obj\Debug\MDB.csprojResolveAssemblyReference.cache
+C:\Users\TEST04\Desktop\ProjektMDB-Antonio\MDB\MDB\obj\Debug\MDB.exe
+C:\Users\TEST04\Desktop\ProjektMDB-Antonio\MDB\MDB\obj\Debug\MDB.pdb
+C:\Users\TEST04\Desktop\ProjektMDB-Antonio\MDB\MDB\obj\Debug\Interop.ADOX.dll
+C:\Users\TEST04\Desktop\ProjektMDB-Antonio\MDB\MDB\obj\Debug\MDB.csproj.ResolveComReference.cache
